@@ -1,10 +1,10 @@
 # github-day1
 Day 1 github workshop
 ## Basic Linux Commands
-- Pwd
-- Cd
-- 1s
-- 1s -a
+- pwd
+- cd
+- ls
+- ls -a
 - mkdir foldername
 - rmdir foldername
 - rm filename
