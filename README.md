@@ -15,3 +15,35 @@ Day 1 github workshop
 - python filename
 - clear
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+- commit history
+         -git log
+          
